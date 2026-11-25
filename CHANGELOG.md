@@ -1,5 +1,10 @@
 # Changelog
 
+## 1.0.1
+
+- Store description rewritten in a more natural, less templated voice.
+- No code changes.
+
 ## 1.0.0
 
 - Initial release.

@@ -1,6 +1,6 @@
 {
   "name": "IdentityRename",
-  "version_number": "1.0.0",
+  "version_number": "1.0.1",
   "website_url": "https://github.com/ssc123321/IdentityRename",
   "description": "Change the name other players see in the lobby. Set it in the config file; leave it empty to use your Steam name.",
   "dependencies": []

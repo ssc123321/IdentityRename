@@ -9,7 +9,7 @@ namespace ABUF.IdentityRename
     {
         public const string Guid = "abuf.identityrename";
         public const string PluginName = "Identity Rename";
-        public const string PluginVersion = "1.0.0";
+        public const string PluginVersion = "1.0.1";
 
         public static ManualLogSource Log;
 
